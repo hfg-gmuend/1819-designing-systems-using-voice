@@ -1,0 +1,14 @@
+{
+  "name": "snowboy-hotword-detection",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-hotworddetector": "^1.2.1"
+  }
+}
