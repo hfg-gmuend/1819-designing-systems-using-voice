@@ -1,0 +1,3 @@
+[submodule "examples/web-speech-api"]
+	path = examples/web-speech-api
+	url = git@github.com:mdn/web-speech-api.git
