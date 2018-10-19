@@ -16,3 +16,6 @@ brew install sox --with-flac
 ```
 
 You can test whether SoX was installed correctly with e.g. `rec --channels=1 --bits=16 --rate=16000 audio.flac trim 0 5`.
+
+## Running
+Start the example with `node example.js`.
