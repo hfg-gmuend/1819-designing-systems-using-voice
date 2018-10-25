@@ -2,7 +2,7 @@ HfG IG4 Designing Systems WS2018/2019
 
 # Using Voice – Designing Alternative Speech Interfaces from Scratch
 
-In the course “System Design” we will develop new interaction concepts using speech recognition and natural language processing.
+In the course "System Design" we will develop new interaction concepts using speech recognition and natural language processing.
 
 Links:
 
@@ -11,7 +11,7 @@ Links:
 
 
 ## Speech Interfaces
-Communicating with voice, especially speech, is one of the most natural ways for humans to exchange information, give commands and express feelings. 
+Communicating with voice, especially speech, is one of the most natural ways for humans to exchange information, give commands and express feelings.
 
 Voice User Interface (VUI) make human interaction with machines and services possible, by using technologies like text-to-speech, speech-to-text, Natural Language Processing to “understand” what a person is telling a computer. Very often those [Voice User Interfaces](https://en.wikipedia.org/wiki/Voice_user_interface) are currently associated to initiate a simple automated service or process e.g. “Hey Siri what's the weather tomorrow?”.
 
@@ -94,7 +94,7 @@ Individual tutorials
 Show & Tell
 Discussion
 
-### Thu Dec 20 
+### Thu Dec 20
 Individual tutorials
 
 (Weihnachten)
