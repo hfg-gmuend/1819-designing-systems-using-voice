@@ -108,7 +108,7 @@ Individual tutorials
 ### Thu Jan 24
 Individual tutorials
 
-### Thu Jan 31 – Final Presentation
+### Thu Jan 31 - Final Presentation
 Show & Tell
 Final Crit
 Course Feedback
