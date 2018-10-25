@@ -12,14 +12,14 @@ Links:
 ## Speech Interfaces
 Communicating with voice, especially speech, is one of the most natural ways for humans to exchange information, give commands and express feelings.
 
-Voice User Interface (VUI) make human interaction with machines and services possible, by using technologies like text-to-speech, speech-to-text, Natural Language Processing to “understand” what a person is telling a computer. Very often those [Voice User Interfaces](https://en.wikipedia.org/wiki/Voice_user_interface) are currently associated to initiate a simple automated service or process e.g. “Hey Siri what's the weather tomorrow?”.
+Voice User Interface (VUI) make human interaction with machines and services possible, by using technologies like text-to-speech, speech-to-text, Natural Language Processing to "understand" what a person is telling a computer. Very often those [Voice User Interfaces](https://en.wikipedia.org/wiki/Voice_user_interface) are currently associated to initiate a simple automated service or process e.g. "Hey Siri what's the weather tomorrow?".
 
 ## Briefing
-We find ourselves in an exciting Human communication moment. With the recent arrival of machine learning the typical error rate in speech recognition dropped down from 23% (2013) to ~5% (2017) [1,2]. For the first time it seems likely that the way we all communicate with our computing devices might change very soon. Speech recognition technology matured to “usable” and production ready, mass adoption seems to be around the corner.
+We find ourselves in an exciting Human communication moment. With the recent arrival of machine learning the typical error rate in speech recognition dropped down from 23% (2013) to ~5% (2017) [1,2]. For the first time it seems likely that the way we all communicate with our computing devices might change very soon. Speech recognition technology matured to "usable" and production ready, mass adoption seems to be around the corner.
 
 This brief asks to look into speech recognition in a 3 steps approach:
 Build an open source alternative to Siri Cortana Alexa for a specific (simple) use case.
-Explore the potential and implications of the speech recognition “material” (technology as a material) from a design point of view, with an emphasis on thinking through making.
+Explore the potential and implications of the speech recognition "material" (technology as a material) from a design point of view, with an emphasis on thinking through making.
 Build an open source proof of concept.
 
 Project outcomes should be expressed through a variety of forms e.g. wireframes, prototypes, visual layout mockups, demonstrators, video and photography of (future) apps, products, or services. These will be documented and presented at the end of the term.
@@ -54,7 +54,7 @@ Assignment: Research/try out a technologies from Github repo (run and setup exam
 - Snowboy
 - Snips.ai
 - Google voice recognition API
-- Source training data e.g. custom hotword “Hej IG” etc.
+- Source training data e.g. custom hotword "Hej IG" etc.
 - Chat bots
 - ...
 
