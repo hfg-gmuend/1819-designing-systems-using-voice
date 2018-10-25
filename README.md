@@ -1,7 +1,6 @@
 HfG IG4 Designing Systems WS2018/2019
 
 # Using Voice – Designing Alternative Speech Interfaces from Scratch
-
 In the course "System Design" we will develop new interaction concepts using speech recognition and natural language processing.
 
 Links:
