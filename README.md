@@ -37,7 +37,7 @@ Project outcomes should be expressed through a variety of forms e.g. wireframes,
 ## Schedule (subject to change)
 
 ### Thu Oct 4
-Intro Chat Voice interfaces
+Intro Chat Voice interfaces 
 
 Assignment: State-of-the-art research use cases and examples in teams of two
 - Voice and conversational interface
@@ -67,7 +67,7 @@ Assignment: Decide/Brainstorm on first early directions
 
 Assignment: Technical Tutorial (Abstract, Requirements, Setup, Running, Examples, Video ...) on Github course repo
 
-### Thu Nov 1 (Halloween)
+### Thu Nov 1 (Halloween) 🎃
 
 ### Thu Nov 8
 Individual tutorials
