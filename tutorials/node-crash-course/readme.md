@@ -297,5 +297,5 @@ app.listen(3000, function () {
 });
 ```
 
-##acknowledgements
+## acknowledgements
 * Text/outline mainly adapted from the [browserify-handbook](https://github.com/substack/browserify-handbook/)
