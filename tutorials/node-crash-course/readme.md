@@ -1,14 +1,14 @@
 Node.js Crash Course Tutorial
 ==========================
 
-##install node.js
+## install node.js
 Download [node.js](https://nodejs.org/) or install it via [Homebrew](https://brew.sh/) (macOS only)
 
 ```
 $ brew install node
 ```
 
-##node project setup
+## node project setup
 
 Go to you future project folder in your terminal:
 
@@ -16,7 +16,7 @@ Go to you future project folder in your terminal:
 $ cd projectfolder
 ```
 
-###package.json
+### package.json
 Create a `package.json` file:
 
 ```
@@ -38,14 +38,14 @@ Your package.json should look similar to this now:
 }
 ```
 
-###npm
+### npm
 [npm](https://www.npmjs.com/) is the package manager for JavaScript and the "world’s largest software registry".
 
 
 #node packaged modules
 
 
-###require
+### require
 
 In node, there is a `require()` function for loading code from other files. If you install a module with [npm](https://npmjs.org):
 
@@ -79,7 +79,7 @@ var foo = require('./foo.js');
 ```
 
 
-###module exports
+### module exports
 
 To export a single thing from a file so that other files may import it, assign over the value at `module.exports`:
 
@@ -128,7 +128,7 @@ Note however that you can't do:
 exports = 555
 ```
 
-#async vs sync
+## async vs sync
 
 ```js
 var fs = require('fs');
@@ -144,7 +144,7 @@ fs.exists('./index.js', function(exists){
 });
 ```
 
-##streams (file I/O)
+## streams (file I/O)
 [Streams](https://www.tutorialspoint.com/nodejs/nodejs_streams.htm) in node.js let you read data from a source or write data to a destination in **continuous** fashion.
 
 ```js
@@ -161,7 +161,7 @@ readStream
   });
 ```
 
-##read a csv file
+## read a csv file
 
 ```js
 var fs = require('fs');
@@ -174,12 +174,12 @@ fs.createReadStream('your-csv-file.csv')
   });
 ```
 
-##browserify
+## browserify
 [browserify](http://browserify.org) is a tool for compiling
 [node-flavored](http://nodejs.org/docs/latest/api/modules.html) commonjs modules
 for the browser.
 
-###bundling for the browser
+### bundling for the browser
 
 To run a module in node, you've got to start from somewhere.
 
@@ -212,14 +212,14 @@ Now `bundle.js` contains all the javascript that `robot.js` needs to work. Just 
 </html>
 ```
 
-###npm scripts
+### npm scripts
 npm supports a ["scripts" property](https://docs.npmjs.com/misc/scripts) in the package.json file. Additionally, arbitrary scripts can be executed by running:
 
 ```
 $ npm run your-script-name
 ```
 
-##dev server - automatic re-running
+## dev server - automatic re-running
 [Nodemon](https://github.com/remy/nodemon) will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
 
 Either install nodemon globally,
@@ -245,7 +245,7 @@ $ npm run watch
 ```
 
 
-###dev browser - webserver with budo
+### dev browser - webserver with budo
 [Budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping with incremental reloading, LiveReload integration (including CSS injection), and other handy features.
 
 Recommendend to define a npm script for it, so that we don't have to install it globally.
@@ -274,7 +274,7 @@ Now you can run budo with:
 $ npm run dev
 ```
 
-###express.js
+### express.js
 
 [Express](https://expressjs.com/) is a minimal and flexible Node.js web application framework for building web applications and APIs.
 
@@ -297,5 +297,5 @@ app.listen(3000, function () {
 });
 ```
 
-##acknowledgements
+## acknowledgements
 * Text/outline mainly adapted from the [browserify-handbook](https://github.com/substack/browserify-handbook/)
