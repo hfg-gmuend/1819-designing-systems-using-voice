@@ -15,15 +15,17 @@ brew install sox --with-flac
 
 You can test whether SoX was installed correctly with e.g. `rec --channels=1 --bits=16 --rate=16000 audio.flac trim 0 5`.
 
-2. Install node modules for the Snowboy example
+2. Install node modules for Snowboy and other dependencies.
 
 ```
 npm install --save
 ```
 
-## Running
-Start the example with 
+## Examples
+For the google speech to text example you will need an API key saved into `api-keyfile.json`
 
 ```
-node example.js
+node 1-hotword-detection.js
+node 2-hotword-record-audio.js
+node 3-hotword-google-speech-to-text.js
 ```

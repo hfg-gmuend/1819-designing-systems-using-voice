@@ -26,9 +26,9 @@ hotwordDetector.on('sound', function(buffer) {
   console.log('Sound');
 });
 
+// start detection
 hotwordDetector.start();
-
-console.log('Active hotwords 🎤 :');
+console.log('Listening to the hotwords 🔥:');
 for (model of modelData) {
   console.log(model.hotwords);
 }
