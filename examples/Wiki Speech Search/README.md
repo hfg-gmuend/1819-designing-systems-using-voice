@@ -22,5 +22,7 @@ Often the first result isn't recognized correctly and you get the search result 
 **References**
 
 [responsiveVoice](https://responsivevoice.org/api/)
+
 [Mozilla Webspeech](https://github.com/mdn/web-speech-api/tree/831ab0c97ac12b9af6c64089453d393df9773303)
+
 [Wikipedia API](https://freshman.tech/wikipedia-javascript/)
