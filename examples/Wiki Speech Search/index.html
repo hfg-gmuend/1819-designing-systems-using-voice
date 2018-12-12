@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Wiki Speech Search</title>
+    <meta name="description" content="The wiki JS">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <main>
+        <header class="searchForm-container">
+            <h1>Wikipedia <br><span style="opacity: 0.5;" >Speech Search</span></h1>
+            <p class="hints"></p>
+            <div>
+                <p class="output"><em>
+                        Click on the header to start. <br>
+                        First result is often undefined. <br>
+                    </em></p>
+            </div>
+            <form class="searchForm">
+                <input type="search" class="searchForm-input">
+            </form>
+        </header>
+        <section class="searchResults"></section>
+        <script src="script.js"></script>
+        <script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </main>
+</body>
+
+</html>
