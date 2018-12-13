@@ -3,7 +3,7 @@
 The [Google AIY Kit](https://www.amazon.de/gp/product/B075SFLWKX/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) is a RaspberryPi-based DIY set. It allows users to easily build their own Google Home device. 
 There are two ways to use your kit: With Google software or using the Gassists open source solution.
 
-##Preparations
+## Preparations
 
 ### Get the hardware
 
@@ -22,7 +22,7 @@ To flash the image on the SD card we used [Etcher](https://www.techspot.com/down
 
 To use the SD card as boot medium, you'll need to format it prior to flashing the image. We used [SD Formatter](https://www.sdcard.org/downloads/).
 
-##Setup A – Using Google Software
+## Setup A – Using Google Software
 **Make sure to take the preperation step above before you start! You can't use both setups on the same SD.** 
 ### Install the Google AIY OS 
 You can follow [this guide](https://aiyprojects.withgoogle.com/voice) this guide provided by Google. Mind the model number, the tutorials differ between V1 and V2.
@@ -31,7 +31,7 @@ You can follow [this guide](https://aiyprojects.withgoogle.com/voice) this guide
 You got yourself a DIY Google Home Assitant. If you used your private Google account you can also embed it into your Google smart home.
 
 
-##Setup B – Using GassistPi Software
+## Setup B – Using GassistPi Software
 **Make sure to take the preperation step above before you start! You can't use both setups on the same SD.** 
 
 The benefit of *hacking* your Google AIY Kit is that you are then able to integrate third party APIs such as Spotify and many more. 
