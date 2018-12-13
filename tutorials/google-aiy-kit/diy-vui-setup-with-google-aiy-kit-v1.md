@@ -1,5 +1,7 @@
 # DIY VUI setup with Google AIY Kit V1
 
+![Alt Image Text](/Users/romankuhn/Documents/01_HfG/04_Sem4/01_SystemDesign/aiy.jpg)
+
 The [Google AIY Kit](https://www.amazon.de/gp/product/B075SFLWKX/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) is a RaspberryPi-based DIY set. It allows users to easily build their own Google Home device. 
 There are two ways to use your kit: With Google software or using the Gassists open source solution.
 
@@ -21,7 +23,6 @@ To setup the Raspberry Pi, you'll need the Raspberry Pi Noobs image. We used the
 To flash the image on the SD card we used [Etcher](https://www.techspot.com/downloads/6931-etcher.html).
 
 To use the SD card as boot medium, you'll need to format it prior to flashing the image. We used [SD Formatter](https://www.sdcard.org/downloads/).
-
 ## Setup A – Using Google Software
 **Make sure to take the preperation step above before you start! You can't use both setups on the same SD.** 
 ### Install the Google AIY OS 
