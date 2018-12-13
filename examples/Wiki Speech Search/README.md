@@ -1,5 +1,4 @@
 Wikipedia Search VUI 
-===================================================
 
 
 This snippet allows you to search for articles of the Wikipedia using your voice.
