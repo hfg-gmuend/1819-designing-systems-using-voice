@@ -1,9 +1,9 @@
-Combining Moz Webspeech API with responsiveVoice
+Wikipedia Search VUI 
 ===================================================
 
 
 This snippet allows you to search for articles of the Wikipedia using your voice.
-No node installation required. It makes use of the Mozilla Webspeech for recognition.
+No node installation required. It makes use of the Mozilla Webspeech API for recognition.
 For the sake of simplicity i used responsiveVoice for Text2Speech.
 
 **Features**
@@ -12,7 +12,7 @@ Lists the first page of search results of any term
 Reads out the first five (adjustable) article titles
 Is able to read the first paragraph of the articles
 
-**Know issue**
+**Know issues**
 
 The 'paragraph reading feature' is commented out by default.
 This is because i got an issue with the processing of punctuation.
