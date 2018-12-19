@@ -1,15 +1,23 @@
-# Speech Recognition These basics are used to get to know each other and create simple  „Voice Interface projects“ using HTML5 and JavaScript. This can be expanded with advanced knowledge and developed his own voice interface.At the moment, only Google Chrome has the „Voice Interface Projects“ running.
+# Speech Recognition 
+
+These basics are used to get to know each other and create simple  „Voice Interface projects“ using HTML5 and JavaScript. This can be expanded with advanced knowledge and developed his own voice interface.
+
+At the moment, only Google Chrome has the „Voice Interface Projects“ running.
 
 
 
 ## Speech to Text and Text to Speech
 
 
-![Speechtotext and TexttoSpeech](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTTSpeech2.png)
+![SpeechTTSpeech2.png](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTTSpeech2.png)
 
-Proceed: * Create a new folder for an HTML, JavaScript, and CSS file
- * open the program Dreamweaver or similar * Download th files *index.html*, *script.js* and *styles.css* and put them in the new folder
- * even make changes in the code if desired * open using Google Chrome browser
+Proceed:
+
+ * Create a new folder for an HTML, JavaScript, and CSS file
+ * open the program Dreamweaver or similar
+ * Download th files *index.html*, *script.js* and *styles.css* and put them in the new folder
+ * even make changes in the code if desired
+ * open using Google Chrome browser
 
 Tutorial: [Converting from Speech to Text with JavaScript](https://tutorialzine.com/2017/08/converting-from-speech-to-text-with-javascript)
 
@@ -18,7 +26,11 @@ Tutorial: [Converting from Speech to Text with JavaScript](https://tutorialzine.
 
 ![Speechtotext](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTT.png)
 
-- Create a new folder for an HTML, JavaScript, and CSS file- Download index.html, script.js, styles.css, magic.mp3 and microphone.png and put them in the new folder- open the program Dreamweaver or similar- even make changes in the code if desired- open using Google Chrome browser
+- Create a new folder for an HTML, JavaScript, and CSS file
+- Download index.html, script.js, styles.css, magic.mp3 and microphone.png and put them in the new folder
+- open the program Dreamweaver or similar
+- even make changes in the code if desired
+- open using Google Chrome browser
 - *Of course you can use different sounds (.mp3)*
 
 Tutorial: [simple speech recognition ](https://medium.freecodecamp.org/how-to-build-a-simple-speech-recognition-app-a65860da6108)
@@ -27,8 +39,14 @@ Tutorial: [simple speech recognition ](https://medium.freecodecamp.org/how-to-bu
 
 ![Speechtotranslate](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTr.png)
 
-Proceed:- Create a new folder for an HTML, JavaScript, and CSS file- Download file index.html and put them in the new folder- open the program Dreamweaver or similar
-- to get the desired language, enter the appropriate country code in the *input*- tag of the *form*-tag. Here: ![Choose Languagne](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/sprachauswahl.png)- even make changes in the code if desired- open using Google Chrome browser
+Proceed:
+
+- Create a new folder for an HTML, JavaScript, and CSS file
+- Download file index.html and put them in the new folder
+- open the program Dreamweaver or similar
+- to get the desired language, enter the appropriate country code in the *input*- tag of the *form*-tag. Here: ![Choose Languagne](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/sprachauswahl.png)
+- even make changes in the code if desired
+- open using Google Chrome browser
 
 Tutorial: [Web Speech API](https://www.audero.it/demo/web-speech-api-demo.html)
 
