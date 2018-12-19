@@ -1,3 +1,5 @@
+$( document ).ready(function() {
+
 var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition
 var SpeechGrammarList = SpeechGrammarList || webkitSpeechGrammarList
 var SpeechRecognitionEvent = SpeechRecognitionEvent || webkitSpeechRecognitionEvent
@@ -96,3 +98,5 @@ function displayResults(results) {
 
 const form = document.querySelector('.searchForm');
 form.addEventListener('submit', handleSubmit);
+
+});
