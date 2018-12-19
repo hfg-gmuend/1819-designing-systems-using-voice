@@ -1,6 +1,6 @@
 # DIY VUI setup with Google AIY Kit V1
 
-![Alt Image Text](/Users/romankuhn/Documents/01_HfG/04_Sem4/01_SystemDesign/aiy.jpg)
+![img not found](https://i.imgur.com/jlCTGeU.jpg)
 
 The [Google AIY Kit](https://www.amazon.de/gp/product/B075SFLWKX/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) is a RaspberryPi-based DIY set. It allows users to easily build their own Google Home device. 
 There are two ways to use your kit: With Google software or using the Gassists open source solution.
