@@ -24,7 +24,7 @@ Tutorial: [Converting from Speech to Text with JavaScript](https://tutorialzine.
 
 ## Speech to Text 
 
-![Speechtotext](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTT.png)
+![SpeechTT.png](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTT.png)
 
 - Create a new folder for an HTML, JavaScript, and CSS file
 - Download index.html, script.js, styles.css, magic.mp3 and microphone.png and put them in the new folder
