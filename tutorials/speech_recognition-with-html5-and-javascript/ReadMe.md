@@ -44,7 +44,7 @@ Proceed:
 - Create a new folder for an HTML, JavaScript, and CSS file
 - Download file index.html and put them in the new folder
 - open the program Dreamweaver or similar
-- to get the desired language, enter the appropriate country code in the *input*- tag of the *form*-tag. Here: ![sprachauswahl.png](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/sprachauswahl.png)
+- to get the desired language, enter the appropriate country code in the *input*- tag of the *form*-tag. Here: ![sprachauswahl.png](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/speech_recognition-with-html5-and-javascript/example-images/sprachauswahl.png)
 - even make changes in the code if desired
 - open using Google Chrome browser
 
