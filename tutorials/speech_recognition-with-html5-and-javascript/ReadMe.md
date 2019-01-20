@@ -158,7 +158,7 @@ Is a client-based JavaScript web framework that can be used to build both small 
 
 Tutorial Link: https://www.youtube.com/watch?v=DBADrF0C2ls
 
-Some useful Link to Vue.js:
+Interesting Links:
 
 https://blog.codecentric.de/2018/02/vue-js-simple-make-complicated/, https://www.heise.de/developer/artikel/Vue-js-Zeitgemaesse-und-wartbare-JavaScript-Client-Anwendungen-4041158.html?seite=all, https://github.com/vuejs
 
