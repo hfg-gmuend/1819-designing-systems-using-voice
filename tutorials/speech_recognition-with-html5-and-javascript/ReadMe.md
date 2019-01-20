@@ -110,3 +110,26 @@ our research, only a written translation is possible, no simultaneous translatio
 Tutorial: https://www.youtube.com/watch?v=fx_7EvL_GnE
 
 General Link: https://appery.io/
+
+**MIT App Inventor**
+
+Is a developed development environment to program applications for the operating system "Android". 
+The tool provides a graphical interface for the user, which makes it possible to "drag and drop" 
+graphical blocks (graphic programming language) to the respective application the smartphone, add.
+
+Pro:
+- Internet actually requires WiFi only for Android
+- Complex things go awkward or not at all
+- no own classes (no attributes and methods of classes, no constructors)
+- little object creation at runtime (create all before and on/hide)
+
+Con:
+- Internet actually WLAN also needed
+- only for Android
+- Complex things go awkward or not at all
+- no own classes (no attributes and methods of classes, no constructors)
+- little object creation at runtime (all previously create and on/hide)
+
+General Link: http://appinventor.mit.edu/explore/
+
+Alternative to MIT Inventor: (IOS/Android) https://thunkable.com/, https://cordova.apache.org/, https://flutter.io/
