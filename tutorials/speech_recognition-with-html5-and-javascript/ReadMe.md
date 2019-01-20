@@ -78,3 +78,5 @@ GitHub
 
 [SpeechToSpeechConversion](https://github.com/shahidmawan/SpeechToSpeechConversion)
 
+## Further research or possible alternatives to Google Translate API
+
