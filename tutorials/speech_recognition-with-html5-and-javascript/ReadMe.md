@@ -133,3 +133,22 @@ Con:
 General Link: http://appinventor.mit.edu/explore/
 
 Alternative to MIT Inventor: (IOS/Android) https://thunkable.com/, https://cordova.apache.org/, https://flutter.io/
+
+**Yandex**
+
+Is a Russian-Dutch company providing IT services that also offers cloud services among other things. 
+Yandex offers a wide range of services and products, including Internet advertising services, its own
+Browser (Yandex.Browser), an online translator, a map service (Yandex.Maps) email inboxes, cloud 
+services or an AppStore for the operating system Android.
+
+Yandex Translate API:
+
+provides access to the Yandex online translation service. It supports more than 90 languages and can 
+translate single words or complete texts. The API allows Yandex.Translate to be embedded in a mobile app 
+or web service for end users. Also the translation of large amounts of text (for example, technical 
+documentation) is possible.
+
+General Link: https://tech.yandex.com/translate/
+
+more Links of Yandex: https://tech.yandex.com/speechkit/, https://tech.yandex.com/translate/doc/intro/concepts/how-works-machinetranslation-
+docpage/
