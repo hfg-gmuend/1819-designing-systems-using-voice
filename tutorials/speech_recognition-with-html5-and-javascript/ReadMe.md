@@ -80,9 +80,7 @@ GitHub
 
 ## Further research or possible alternatives to Google Translate API
 
-My Memory
-https://mymemory.translated.net/doc/spec.php
-https://mymemory.translated.net/doc/
+#My Memory
 
 The following description is from the website https://translatedlabs.com/
 mymemory“:
@@ -101,5 +99,9 @@ Derzeit enthält MyMemory 4.401.923.570 vom Menschen übersetzte
 Segmente.
 
 Link zum Projekt: https://mymemory.translated.net/
+
+https://mymemory.translated.net/doc/spec.php
+
+https://mymemory.translated.net/doc/
 
 
