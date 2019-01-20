@@ -9,7 +9,7 @@ At the moment, only Google Chrome has the „Voice Interface Projects“ running
 ## Speech to Text and Text to Speech
 
 
-![SpeechTTSpeech2](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/edit/master/tutorials/speech_recognition-with-html5-and-javascript/example-images/SpeechTTSpeech2.png)
+![SpeechTTSpeech2](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/speech_recognition-with-html5-and-javascript/example-images/SpeechTTSpeech2.png)
 
 Proceed:
 
