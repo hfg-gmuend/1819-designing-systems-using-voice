@@ -154,7 +154,7 @@ more Links of Yandex: https://tech.yandex.com/speechkit/, https://tech.yandex.co
 
 **Vue.js**
 
-Is a client-based JavaScript web framework that can be used to build both small and large client applications. It offers versatile functions and continuous development, but also stable APIs. According to the developers, Vue.js is easier to learn than Angular JS [Angular JS](https://angularjs.org/) because the API is simpler. All you need is knowledge in JavaScript and HTML. An illustrative documentation for learning Vue.js is available at https://vuejs.org/
+Is a client-based JavaScript web framework that can be used to build both small and large client applications. It offers versatile functions and continuous development, but also stable APIs. According to the developers, Vue.js is easier to learn than [Angular JS](https://angularjs.org/) because the API is simpler. All you need is knowledge in JavaScript and HTML. An illustrative documentation for learning Vue.js is available at https://vuejs.org/
 
 Tutorial Link: https://www.youtube.com/watch?v=DBADrF0C2ls
 
