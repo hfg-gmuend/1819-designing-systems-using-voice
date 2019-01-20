@@ -37,7 +37,7 @@ Tutorial: [simple speech recognition ](https://medium.freecodecamp.org/how-to-bu
 
 ## Speech and translate 
 
-![SpeechTr.png](/Users/administrator/Desktop/speech_recognition-with-html5-and-javascript/example-images/SpeechTr.png)
+![SpeechTr.png](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/speech_recognition-with-html5-and-javascript/example-images/SpeechTr.png)
 
 Proceed:
 
