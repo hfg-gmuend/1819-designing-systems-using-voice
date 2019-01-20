@@ -80,7 +80,7 @@ GitHub
 
 ## Further research or possible alternatives to Google Translate API
 
-My Memory
+######My Memory
 
 The following description is from the website https://translatedlabs.com/
 mymemory“:
@@ -101,7 +101,7 @@ Link to the project: https://mymemory.translated.net/
 
 General Link: https://mymemory.translated.net/doc/spec.php, https://mymemory.translated.net/doc/
 
-#appery.io
+######appery.io
 
 Is a cloud-based development environment that enables the creation of mobile and responsive apps 
 (similar to "dialogflow"). This tool can also be used to integrate a translation function, but after
