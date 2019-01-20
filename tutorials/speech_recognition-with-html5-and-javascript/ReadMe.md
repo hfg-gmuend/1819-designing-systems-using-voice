@@ -80,7 +80,7 @@ GitHub
 
 ## Further research or possible alternatives to Google Translate API
 
-#My Memory
+My Memory
 
 The following description is from the website https://translatedlabs.com/
 mymemory“:
@@ -95,13 +95,10 @@ use them with your CAT tool of your choice. You can also help make MyMemory even
 your reminders or edit entries. If no human translation is found for your sentences, MyMemory 
 will help you with state-of-the-art machine translation technology.
 
-Derzeit enthält MyMemory 4.401.923.570 vom Menschen übersetzte
-Segmente.
+Currently, MyMemory contains 4,401,923,570 human-translated Segments.
 
-Link zum Projekt: https://mymemory.translated.net/
+Link to the project: https://mymemory.translated.net/
 
-https://mymemory.translated.net/doc/spec.php
-
-https://mymemory.translated.net/doc/
+General Link: https://mymemory.translated.net/doc/spec.php, https://mymemory.translated.net/doc/
 
 
