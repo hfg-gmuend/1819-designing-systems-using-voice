@@ -101,4 +101,12 @@ Link to the project: https://mymemory.translated.net/
 
 General Link: https://mymemory.translated.net/doc/spec.php, https://mymemory.translated.net/doc/
 
+#appery.io
 
+Is a cloud-based development environment that enables the creation of mobile and responsive apps 
+(similar to "dialogflow"). This tool can also be used to integrate a translation function, but after
+our research, only a written translation is possible, no simultaneous translation.
+
+Tutorial: https://www.youtube.com/watch?v=fx_7EvL_GnE
+
+General Link: https://appery.io/
