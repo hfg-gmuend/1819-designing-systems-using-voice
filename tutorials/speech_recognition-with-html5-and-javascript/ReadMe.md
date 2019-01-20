@@ -80,3 +80,26 @@ GitHub
 
 ## Further research or possible alternatives to Google Translate API
 
+My Memory
+https://mymemory.translated.net/doc/spec.php
+https://mymemory.translated.net/doc/
+
+The following description is from the website https://translatedlabs.com/
+mymemory“:
+
+MyMemory is the world's largest translation memory. It was created to collect translation 
+memories of the European Union and the United Nations and to vote on the best domain-specific 
+multilingual websites.
+
+You can search for translations in MyMemory via a Web user interface, an API and several CAT 
+Tool plugins and search integrations. You can download translation memories in TMX format and 
+use them with your CAT tool of your choice. You can also help make MyMemory even better with 
+your reminders or edit entries. If no human translation is found for your sentences, MyMemory 
+will help you with state-of-the-art machine translation technology.
+
+Derzeit enthält MyMemory 4.401.923.570 vom Menschen übersetzte
+Segmente.
+
+Link zum Projekt: https://mymemory.translated.net/
+
+
