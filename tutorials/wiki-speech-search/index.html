@@ -1,35 +1,100 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 
 <head>
-    <meta charset="utf-8">
-    <title>Wiki Speech Search</title>
-    <meta name="description" content="The wiki JS">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://unpkg.com/wtf_wikipedia"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spoken Wiki</title>
 
-    <script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+    <script src="artyom.window.min.js"></script>
+    <script src="responsivevoice.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
     <script src="script.js"></script>
+    <script src="api_call.js"></script>
+
 </head>
 
 <body>
-    <main>
-        <header class="searchForm-container">
-            <h1>Wikipedia <br><span style="opacity: 0.5;" >Speech Search</span></h1>
-            <p class="hints"></p>
-            <div>
-                <p class="output"><em>
-                        Click on the header to start. <br>
-                        First result is often undefined. <br>
-                    </em></p>
-            </div>
-            <form class="searchForm">
-                <input type="search" class="searchForm-input">
-            </form>
-        </header>
-        <section class="searchResults"></section>
+    <div class="main">
 
-    </main>
+        <div class="wrapper">
+
+            <div class="intro">
+                This web-app allows you to search and navigate the Wikipedia with your voice. Use <span class="blue">search for … </span> to start.
+            </div>
+
+            <div class="currentResult" style="margin: 4%; opacity: 0;">Recognized: </div>
+
+            <input id="call2action" type="button" class="button" value="click me!" onclick="startRec()">
+
+
+
+        </div>
+    </div>
+
+    <div class="status">
+        You can always use <span class='blue'>search for …</span> to start a new session.
+    </div>
+
+
+
 </body>
+
+<div class="footi_wrap" id="read_more">
+
+
+    <div class="footi" onclick="commandsUp()">
+        
+        <a style="text-decoration: none">
+            <span class="arrow1"> &#x2924; </span>
+          commands</a>
+
+
+
+    </div>
+
+    <div class="footi"  onclick="swipeUp()">
+        <a style="text-decoration: none">
+
+            <span class="arrow"> &#x2924; </span>
+            about
+            <!-- <span class="blue">Spoken Wiki</span></a> -->
+    </div>
+
+</div>
+
+<div class="about" id="about">
+
+    <div>
+        Moritz Kuhn and Roman Kuhn <br>
+        System Design HfG Gmuend <br><br>
+        Prof. Benedikt Gross <br> Prof. Hartmut Bohnacker <br> <br>
+        Github<br>
+        &copy; 2019
+    </div>
+
+
+
+</div>
+
+<div class="commands" id="commands">
+
+    <div>
+
+        <span class="blue">home</span> <br>
+        <span class="blue">repeat</span> <br>
+        <span class="blue">search for …</span> <br>
+        <span class="blue">snippet for …</span> <br>
+        <span class="blue">tell me more about …</span> <br>
+        <span class="blue">table of content for …</span><br>
+        <span class="blue">subcategory …</span> <br>
+        <span class="blue">links</span>  <br> 
+    </div>
+</div>
+
 
 </html>
