@@ -1,6 +1,6 @@
 # Creating an Alexa skill with Invocable
 
-![Header] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/header.jpg)
+![Header](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/header.jpg)
 
 This tutorial was created by [Kai Erne](https://kaierne.de) and [Pascal Ligon](http://pascalligon.de).
 You can find our project [here](https://app.invocable.com/shared/projects/53308675d06c3831b223a9ca99f10d43a1963705).
@@ -23,7 +23,7 @@ What you need:
 
 	We figured that English offered the most functions and works the best.
 	
-	![create] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/creating_a_skill.png)
+	![create](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/creating_a_skill.png)
 
 3. Edit the given blocks or create a new Regular Block.
 
@@ -35,11 +35,11 @@ What you need:
 
 6. Add a visual by uploading your pictures.
 	
-	![block] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/block.png)
+	![block](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/block.png)
 
 7. Link the user reply to a different block. You can pick an existing block or create a new one.
 	
-	![link] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/linking_a_block.png)
+	![link](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/linking_a_block.png)
 
 8. Repeat this process until you finished your skill.
 
@@ -73,23 +73,23 @@ If you added visuals there is no other way to present your skill than either usi
 
 1. First we need to create a skill by clicking on the "Create a skill" button.  
 
-	![create] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/create.png)
+	![create](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/create.png)
 
 2. We are going to name the skill "Hello World"
 
-	![name] (https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/Name.png)
+	![name](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/Name.png)
 
 3. The created skill starts with some preset blocks.
 
-	![preset] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/preset.png)
+	![preset](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/preset.png)
 
 4. The welcome block can be edited with a short Alexa output
 
-	![helloworld] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/helloworld.png)
+	![helloworld](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/helloworld.png)
 	
 5. Finally you can upload the skill to Alexa
 	
-	![upload] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/upload.png)
+	![upload](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/upload.png)
 	
 6. Open the [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask) and pick your skill from the list
 
@@ -97,4 +97,4 @@ If you added visuals there is no other way to present your skill than either usi
 
 8. By entering the command `start Hello World` you can start testing your skill
 	
-	![develop] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/develop.png)
+	![develop](https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/develop.png)
