@@ -30,7 +30,7 @@ A project by [Moritz Kuhn](https://moritzkuhn.com) and [Roman Kuhn](https://roma
 * Minimal GUI
 
 
-##Customizing
+## Customizing
 
 You can add your own commands and expand the feature list by adding commands and API calls. For more detailed instructions see the [artyom documentation](https://sdkcarlos.github.io/sites/artyom.html) and the [wtf_wikipedia documentation](https://beta.observablehq.com/@spencermountain/wtf_wikipedia).
 You will also find the [responsiveVoice API](https://responsivevoice.org/api/) embeded in the code. Generally you can decide if you prefer artyom or responsiveVoice. While artyom tends to be more stable and a bit faster, responsiveVoice offers you more settings.
@@ -85,12 +85,12 @@ Or alternatively:
   		return tmp.textContent || tmp.innerText || "";
 	}
 
-##Upcoming Features
+## Upcoming Features
 We plan to **switch completely to wtf_wikipedia.js**. This will shorten the code and make way it easier to read and customize it. Also it offers more API functions than the orignal Wiki API.
 
 In the future there will be a **power user feature** for the web-app. It will track how often the application is used and then turns off the introduction of the narrators.
 
-##References
+## References
 
 [artyom.js](https://sdkcarlos.github.io/sites/artyom.html)
 
