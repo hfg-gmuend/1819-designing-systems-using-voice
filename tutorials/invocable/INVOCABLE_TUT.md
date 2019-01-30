@@ -2,7 +2,7 @@
 
 ![Header] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/header.jpg)
 
-This tutorial was created by [Kai Erne] (https://kaierne.de) and [Pascal Ligon](http://pascalligon.de).
+This tutorial was created by [Kai Erne](https://kaierne.de) and [Pascal Ligon](http://pascalligon.de).
 You can find our project [here](https://app.invocable.com/shared/projects/53308675d06c3831b223a9ca99f10d43a1963705).
 ## Preparation
 
