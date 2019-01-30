@@ -3,10 +3,17 @@ const HotwordDetector = require('node-hotworddetector');
 const detectorData = {
   resource: './node_modules/snowboy/resources/common.res'
 };
+/*
 const modelData = [{
   file: './node_modules/snowboy/resources/snowboy.umdl',
   hotwords : 'snowboy'
 }];
+*/
+const modelData = [{
+  file: './node_modules/snowboy/resources/hallo.pmdl',
+  hotwords : 'henke'
+}];
+
 
 let hotwordDetector = new HotwordDetector(detectorData, modelData, {audioGain: 2}, console);
 
