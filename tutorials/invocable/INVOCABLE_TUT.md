@@ -1,4 +1,4 @@
-#Creating an Alexa skill with Invocable
+# Creating an Alexa skill with Invocable
 
 ![Header] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/header.jpg)
 
@@ -45,7 +45,7 @@ What you need:
 
 When you are happy with your result, you can upload your skill to Alexa with the button on the top right corner.
 
-##How to test your skill
+## How to test your skill
 
 Go to the [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask). Your skill should be listed here.
 
@@ -55,21 +55,21 @@ Once you open your skill, go to test and start the skill by saying or typing the
 
 Then you can start to test your skill in the developer console.
 
-##Problems
+## Problems
 When creating our skill we found multiple problems and could solve most of them. Here are some examples:
 
-###Adding text to the user input:
+### Adding text to the user input:
 If you want to add a variable that recognises any user input you have no proper option in the given Amazon variables.
 We figured out that if you use the variable "Fictional Character", you can use any input and wont need a certain keyword.
 
-###Adding visuals
+### Adding visuals
 When adding visuals there is no option to add visuals for multiple screens at once. Also you have to upload pictures and are only able to add rectangles if you use the built in editor.
 
-###Presenting your skill
+### Presenting your skill
 If you added visuals there is no other way to present your skill than either using a Echo Show device or opening the developer console. We solved this problem by screensharing the visual part of the developer window to another monitor.
 
 
-##Hello World
+## Hello World
 
 1. First we need to create a skill by clicking on the "Create a skill" button.  
 
