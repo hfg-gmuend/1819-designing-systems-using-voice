@@ -77,7 +77,7 @@ If you added visuals there is no other way to present your skill than either usi
 
 2. We are going to name the skill "Hello World"
 
-	![name] (/Users/pascalligon/Studium/4. Semester/System Design/Tutorial/tutorial_screens/Name.png)
+	![name] (https://github.com/hfg-gmuend/1819-designing-systems-using-voice/blob/master/tutorials/invocable/tutorial_screens/Name.png)
 
 3. The created skill starts with some preset blocks.
 
