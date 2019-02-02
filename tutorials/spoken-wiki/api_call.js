@@ -6,7 +6,7 @@ function searchWiki() {
     artyom.ArtyomVoicesIdentifiers["en-US"].unshift('Google US English', 'Alex');
     const searchQuery = cleanSearch.toLowerCase();
     fetchResults(searchQuery);
-  
+    artyom.say("Hi, I'm Alex. I'm responsible for your results, table of contents, snippets and abstracts. Here are your results:")
 
     function fetchResults(searchQuery) {
         const endpoint = `https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=5&srsearch=${searchQuery}`;
@@ -23,7 +23,7 @@ function searchWiki() {
     }
 
     function displayResults(data) {
-        artyom.say("Hi, I'm Alex. I'm responsible for your search results, table of contents, snippets and abstracts. Here are your results:")
+        artyom.say("Here are your results:")
         var arrayLength = data.length;
         console.log(arrayLength);
         for (var i = 0; i < arrayLength; i++) {

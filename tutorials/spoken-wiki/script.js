@@ -135,7 +135,7 @@ var myGroup = [
         indexes: ["table of content for"],
         action: function() {
             tocWiki(cleanTOC);
-            $(".intro").html("Here's the table of content. Use " + "<span class='blue'>subcategory [number] </span>" + "to choose one.");
+            $(".intro").html("Here's the table of content. Use " + "<span class='blue'>sucategory [number] </span>" + "to choose one.");
         }
     },
     subChoice = {
